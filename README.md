@@ -34,23 +34,5 @@ Welcome to **Code-Tweet**, a full-stack web application inspired by Twitter but 
 
 ---
 
-## Screenshots
 
-### Home Page
-![Home Page](code-tweet/screenshots/twitter1.png)  
-*The home page displays a real-time feed of tweets, including code snippets, with options to like, comment, and share.*
-
-### User Profile
-![User Profile](screenshots/profile.png)  
-*User profiles are customizable, featuring a bio, profile picture, and follower/following counts.*
-
-### Code Snippet Post
-![Code Snippet](screenshots/code-snippet.png)  
-*Share and highlight code snippets with syntax highlighting for better readability.*
-
-### Login Page
-![Login Page](screenshots/login.png)  
-*Secure login and registration with options for Google authentication.*
-
----
 
